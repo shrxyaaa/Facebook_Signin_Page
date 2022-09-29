@@ -5,7 +5,7 @@
 * [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
 
 
-# 🔬 Local Setup
+#  Local Setup
 ```js
 npm install
 npm start
